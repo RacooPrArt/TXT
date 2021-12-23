@@ -1,1 +1,6 @@
-
+title - error 404 when i try to open WebSite's Main Page,
+steps to reproduce - open link https://www.bugwebsite.example,
+severity - blocker,
+priority - high,
+actual result - error 404,
+expected result - open main page.
