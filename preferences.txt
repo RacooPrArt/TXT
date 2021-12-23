@@ -1,0 +1,5 @@
+Film - La-La-Land,
+Series - Big Bang Theory,
+food - meat,
+season - summer,
+desired country - Czech.
